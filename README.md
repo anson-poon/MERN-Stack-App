@@ -1,4 +1,4 @@
-# MERN-Stack-App-Demo
+# MERN-Stack-App
 
 Exercise Logger for CRUD operations
 
