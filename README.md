@@ -1,6 +1,8 @@
 # MERN-Stack-App
 
-Exercise Logger for CRUD operations
+An workout tracker for logging daily workout exercises. (e.g. deadlift, squat, lunge, pullover, etc)
+Serves as a demo for CRUD operations in MERN stack.
+
 
 ## Technologies
 * JavaScript
@@ -11,10 +13,10 @@ Exercise Logger for CRUD operations
 * React
 * Node.js
 
+
 Home Page (Display Database)
 ![Home Page](https://github.com/anson-poon/MERN-Stack-App/blob/main/images/Home%20Page.png)
 Create Exercise Page
 ![Home Page](https://github.com/anson-poon/MERN-Stack-App/blob/main/images/Create%20Page.png)
 Edit Exercise Page
 ![Home Page](https://github.com/anson-poon/MERN-Stack-App/blob/main/images/Edit%20Page.png)
-
