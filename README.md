@@ -1,10 +1,11 @@
 # MERN-Stack-App
 
-An workout tracker for logging daily workout exercises. (e.g. deadlift, squat, lunge, pullover, etc)
-Serves as a demo for CRUD operations in MERN stack.
+An workout tracker for logging daily exercises. (e.g. deadlift, squat, lunge, pullover, etc)
+
+Serves as a demo for CRUD operations using MERN stack.
 
 
-## Technologies
+## Technologies used
 * JavaScript
 * HTML
 * CSS
