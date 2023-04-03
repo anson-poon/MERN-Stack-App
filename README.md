@@ -1,4 +1,4 @@
-# MERN-Stack-App
+# MERN-Stack-Exercise-Logger
 
 An exercise tracker for logging workout/fitness progress. (e.g. deadlift, squat, lunge, pullover, etc)
 
